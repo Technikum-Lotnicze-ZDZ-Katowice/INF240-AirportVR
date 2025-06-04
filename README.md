@@ -22,6 +22,7 @@ zdefiniuj tytuł (najlepiej aby w tytule był tylko kod ICAO) i zredaguj treść
 
 4. Dodaj zdjęcie (znaleione w internecie) i podpisz podając źródło.
 5. Ustaw obrazek wyróżniający.
+6. Można wielokrotnie poprawiać artykuł (w dodwolnym momencie po zalogowaniu) jeśli znajdziesz dodatkowe informacje i/lub zdjęcie i uznasz że artykuł mozna poprawić.
 
 ---
 
