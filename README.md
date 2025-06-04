@@ -47,7 +47,12 @@ Poćwicz nawigację w scenie 3D blendera. Można wspomóc się tutorialem wideo 
   - Projekt.blend,
   - Exported.glb,
   - Exported.gltf
+    
   i wyślij je do swojego katalogu klasowego na dysku Google, lub na pendrive, który przynieszesz na zajęcia
+
+2E - https://drive.google.com/drive/folders/1y9zdZvpfhf5KW2bGVN0xbmmKqPvmygYE?usp=drive_link
+2e - https://drive.google.com/drive/folders/11XycYjXIGGrUwkTPo0wS9cIGp920LpMU?usp=drive_link
+  
 7. Na lekcji dodamy pliki 3D do wpisu i będziemy je eksplorować w VR
 
 ---
