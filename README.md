@@ -37,7 +37,7 @@
   i wyślij je do swojego katalogu klasowego na dysku Google, lub na pendrive, który przynieszesz na zajęcia
 7. Na lekcji dodamy pliki 3D do wpisu i będziemy je eksplorować w VR
 
-#### IV. Zaawansowany model 3D ()
+#### IV. Zaawansowany model 3D (dla chętnych)
 1. Dla zaawansowanych: poszukaj darmowego modelu 3D samolotu który można pobrac np spod następujących adresów:
     - www.free3d.com
     - www.thingiverse.com
