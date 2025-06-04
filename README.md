@@ -44,6 +44,8 @@ Poćwicz nawigację w scenie 3D blendera. Można wspomóc się tutorialem wideo 
   - zaznacz i powiel (SHIFT+D) istniejącą kostkę (lub utwórz w menu Add > Mesh > Cube) w widoku ortogonalnym (bez perspektywy) z góry.
   - ustaw powieloną kostkę na mapie w miejscu widocznego budynku
   - przesuń, przeskaluj, obróć klawiszami skrótów G,R,S lub przy pomocy manipulatora, powtarzaj proces aż utworzysz kilkanaście budynków.
+  - w razie pomyłki lub sytuacji stresowej użyj CTRL + Z aby cofnąć operację i/lub DELETE aby usunąć zaznaczony obiekt.
+  - Co jakiś czas zapisuj stan pracy (CTRL + S)
 5. Zapisz projekt jako dokument pod swoją nazwą (np. PawelJFK.blend) poleceniem "File > Save As"
 6. Spróbuj wyeksportować scenę dodatkowo do formatu *.glb i *.gltf
 6. Upewnij się że skompletowałeś wszystkie pliki:
