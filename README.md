@@ -29,7 +29,7 @@ zdefiniuj tytuł (najlepiej aby w tytule był tylko kod ICAO) i zredaguj treść
 
 ![Reset](Reset.jpg)
 
-Poćwicz nawigację w scenie 3D blendera. Można wspomóc się tutorialem wideo (np takim: https://www.youtube.com/watch?v=qHijANQziUM), jednak sądzę że nawidgacja oraz podstawowe manipulacje obiektu są dostępne dla was bez przygotowania (także dla nieobecnych na zajęciach na których to ćwiczyliśmy)
+Poćwicz nawigację w scenie 3D blendera. Można wspomóc się tutorialem wideo (np takim: https://www.youtube.com/watch?v=qHijANQziUM), jednak sądzę że nawigacja oraz podstawowe manipulacje obiektu są dostępne dla was bez przygotowania (także dla nieobecnych na zajęciach na których to ćwiczyliśmy)
 - klawisze 7,3,1 w bloku numerycznym jako podstawowe widoki ortogonalne
 - rolka myszy - ZOOM
 - SHIFT+ŚRODKOWY PRZYCISK MYSZY do przesuwania widoku (bez orbitowania)
