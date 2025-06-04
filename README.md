@@ -67,7 +67,7 @@ Poćwicz nawigację w scenie 3D blendera. Można wspomóc się tutorialem wideo 
 ---
 
 #### IV. Zaawansowany model 3D (dla chętnych)
-1. Dla zaawansowanych: poszukaj darmowego modelu 3D samolotu który można pobrac np spod następujących adresów:
+1. Poszukaj darmowego modelu 3D samolotu do postawienia na pasach startowych, który można pobrac np spod następujących adresów:
     - www.free3d.com
     - www.thingiverse.com
     - www.sketchfab.com
@@ -79,7 +79,7 @@ Poćwicz nawigację w scenie 3D blendera. Można wspomóc się tutorialem wideo 
     - https://hum3d.com/free
     - https://done3d.com
     - https://cults3d.com
-  - rozpakuj pobrane archiwum i przeciągnij do widoku 3D modle samolotu (plik w formacie obj, glb, gltf lub stl)
+  - rozpakuj pobrane archiwum i przeciągnij do widoku 3D model samolotu (plik w formacie obj, glb, gltf lub stl)
   - przekształć model samolotu tak jak budynki (powielanie, skalowanie, obracanie)
 2. Przed exportem do glb i gltf przekonwertuj mapę na geometrię: Object > Convert > Convert to mesh plane
 3. Upewnij się ze rozmiar sceny nie przekracza kilku metrów a położenie sceny jest zbliżone do środka sceny (aby przekształcić całość, zaznacz wszystko "A" i dokonaj przekształceń całej sceny)
