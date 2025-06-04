@@ -47,6 +47,8 @@ Poćwicz nawigację w scenie 3D blendera. Można wspomóc się tutorialem wideo 
   - Projekt.blend,
   - Exported.glb,
   - Exported.gltf
+ 
+![Drive](Drive.png)
     
   i wyślij je do swojego katalogu klasowego na dysku Google, lub na pendrive, który przynieszesz na zajęcia
 
