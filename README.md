@@ -11,7 +11,7 @@
 
 ---
 
-#### II. Artykuł na portalu
+#### II. Artykuł na portalu Animateria.pl
 1. Aby usystematyzować informacje na temat wybranych przez was portów, przygotuj artykuł z ogólnodostępnymi informacjami na temat twojego lotniska i opublikuj na stronie http://animateria.pl/tl-airports/ (poniżej instrukcja jak to zrobić).
 2. Zarejestruj się na stronie http://animateria.pl/tl-airports/register wypełniając formularz i wysyłając dane klikając "Zarejestruj się". Rejestracja jest bezpieczna a dostęp do waszych danych podanych w formularzu mam tylko ja jako nauczyciel. Jeśli nie chcecie wyświetlać swojego imienia i nazwiska jko podpis pod artykułem, to proszę podać dowolny Nick (pseudonim) w polu "podpis pod artykułem". Email jest wymagany w celu ochrony przed spamem.
 3. Po rejestracji i/lub zalogowaniu utwórz wpis:
