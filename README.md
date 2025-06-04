@@ -27,4 +27,15 @@
   - zaznacz i powiel (SHIFT+D) istniejącą kostkę (lub utwórz w menu Add > Mesh > Cube) w widoku ortogonalnym (bez perspektywy) z góry.
   - ustaw powieloną kostkę na mapie w miejscu widocznego budynku
   - przesuń, przeskaluj, obróć klawiszami skrótów G,R,S lub przy pomocy manipulatora, powtarzaj proces aż utworzysz kilkanaście budynków.
-  - dla zaawansowanych: poszukaj darmowego modelu 3D samolotu 
+  - dla zaawansowanych: poszukaj darmowego modelu 3D samolotu który można pobrac np spod następujących adresów:
+    - www.free3d.com
+    - www.thingiverse.com
+    - www.sketchfab.com
+    - www.cgtrader.com
+    - https://free3d.com
+    - www.trbosquid.com
+    - https://3dwarehouse.sketchup.com
+    - https://pinshape.com
+    - https://hum3d.com/free
+    - https://done3d.com
+    - https://cults3d.com
