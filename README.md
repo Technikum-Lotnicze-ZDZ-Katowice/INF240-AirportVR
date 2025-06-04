@@ -27,7 +27,18 @@
   - zaznacz i powiel (SHIFT+D) istniejącą kostkę (lub utwórz w menu Add > Mesh > Cube) w widoku ortogonalnym (bez perspektywy) z góry.
   - ustaw powieloną kostkę na mapie w miejscu widocznego budynku
   - przesuń, przeskaluj, obróć klawiszami skrótów G,R,S lub przy pomocy manipulatora, powtarzaj proces aż utworzysz kilkanaście budynków.
-  - dla zaawansowanych: poszukaj darmowego modelu 3D samolotu który można pobrac np spod następujących adresów:
+5. Zapisz projekt jako dokument pod swoją nazwą (np. PawelJFK.blend) przez polecenie "File > Save As"
+6. Spróbuj wyeksportować scenę dodatkowo do formatu *.glb i *.gltf
+6. Upewnij się że skompletowałeś wszystkie pliki:
+  - Mapa.jpg/png,
+  - Projekt.blend,
+  - Exported.glb,
+  - Exported.gltf
+  i wyślij je do swojego katalogu klasowego na dysku Google, lub na pendrive, który przynieszesz na zajęcia
+7. Na lekcji dodamy pliki 3D do wpisu i będziemy je eksplorować w VR
+
+#### IV. Zaawansowany model 3D ()
+1. Dla zaawansowanych: poszukaj darmowego modelu 3D samolotu który można pobrac np spod następujących adresów:
     - www.free3d.com
     - www.thingiverse.com
     - www.sketchfab.com
@@ -39,3 +50,7 @@
     - https://hum3d.com/free
     - https://done3d.com
     - https://cults3d.com
+  - rozpakuj pobrane archiwum i przeciągnij do widoku 3D modle samolotu (plik w formacie obj, glb, gltf lub stl)
+  - przekształć model samolotu tak jak budynki (powielanie, skalowanie, obracanie)
+2. Przed exportem do glb i gltf przekonwertuj mapę na geometrię: Object > Convert > Convert to mesh plane
+3. Upewnij się ze rozmiar sceny nie przekracza kilku metrów a położenie sceny jest zbliżone do środka sceny (aby przekształcić całość, zaznacz wszystko "A" i dokonaj przekształceń całej sceny)
