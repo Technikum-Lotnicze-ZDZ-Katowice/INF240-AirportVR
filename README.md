@@ -40,7 +40,7 @@ Poćwicz nawigację w scenie 3D blendera. Można wspomóc się tutorialem wideo 
   - zaznacz i powiel (SHIFT+D) istniejącą kostkę (lub utwórz w menu Add > Mesh > Cube) w widoku ortogonalnym (bez perspektywy) z góry.
   - ustaw powieloną kostkę na mapie w miejscu widocznego budynku
   - przesuń, przeskaluj, obróć klawiszami skrótów G,R,S lub przy pomocy manipulatora, powtarzaj proces aż utworzysz kilkanaście budynków.
-5. Zapisz projekt jako dokument pod swoją nazwą (np. PawelJFK.blend) przez polecenie "File > Save As"
+5. Zapisz projekt jako dokument pod swoją nazwą (np. PawelJFK.blend) poleceniem "File > Save As"
 6. Spróbuj wyeksportować scenę dodatkowo do formatu *.glb i *.gltf
 6. Upewnij się że skompletowałeś wszystkie pliki:
   - Mapa.jpg/png,
