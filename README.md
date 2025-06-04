@@ -4,7 +4,7 @@
 
 ---
 
-#### I. Prace przygotrowawcze
+#### I. Prace przygotowawcze
 
 1. Wybierz ulubiony port lotniczy (który posiada budynki infrastruktury)
 2. Znajdź w Google Maps i zaproponuj wybrany port lotniczy (jeśli nie deklarowałeś na lekcji to sprawdź pod adresem http://animateria.pl/tl-airports/ jakie lokacje są już zajęte). Można zabezpieczyć się przed zajęciem przez kogfoś innego poprzez rejestrację i stworzenie artykułu na portalu animateria.pl (szczegóły poniżej)
