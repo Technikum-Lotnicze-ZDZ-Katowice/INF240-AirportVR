@@ -17,7 +17,7 @@
 2.  Zainstaluj darmowy edytor 3D (zalecany Blender 3D który znajdziesz w sklepie Windows lub na stronie [blender3d.org](https://www.blender.org/))
 3.  Przeciągnij i upuść obrazek z mapą do okna widoku 3D programu blender a następnie zresetuj jego obrót i położenie w panelu numerycznym wywoływanym klawiszem "N" jak na poniższym obrazku.
 4.  Poćwicz nawigację w scenie 3D blendera. Można wspomóc się tutorialem wideo (np takim: https://www.youtube.com/watch?v=qHijANQziUM), jednak sądzę że nawidgacja oraz podstawowe manipulacje obiektu są dostępne dla was bez przygotowania (także dla nieobecnych na zajęciach na których to ćwiczyliśmy)
-- klawisze 7,3,1 jako podstawowe widoki ortogonalne
+- klawisze 7,3,1 w bloku numerycznym jako podstawowe widoki ortogonalne
 - rolka myszy - ZOOM
 - SHIFT+ŚRODKOWY PRZYCISK MYSZY do przesuwania widoku (bez orbitowania)
 - klawisze G, R, S jako podstawowe przekształcenia
