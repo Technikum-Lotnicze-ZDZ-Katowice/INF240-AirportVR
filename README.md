@@ -1,3 +1,30 @@
 # INF240-AirportVR
 
 ### Zadanie polega na przygotowaniu modelu 3D w środowisku WebXR pozwalającym na publikacje treści XR w środowisku webowym.
+
+#### I. Prace przygotrowawcze
+
+1. Wybierz ulubiony port lotniczy (który posiada budynki infrastruktury)
+2. Znajdź w Google Maps i zaproponuj wybrany port lotniczy (jeśli nie deklarowałeś na lekcji to sprawdź pod adresem http://animateria.pl/tl-airports/ jakie lokacje są już zajęte). Można zabezpieczyć się przed zajęciem przez kogfoś innego poprzez rejestrację i stworzenie artykułu na portalu animateria.pl (szczegóły poniżej)
+
+#### II. Artykuł na portalu
+1. Aby usystematyzować informacje na temat wybranych przez was portów, przygotuj artykuł z ogólnodostępnymi informacjami na temat twojego lotniska i opublikuj na stronie http://animateria.pl/tl-airports/.
+2. Zarejestruj się na stronie http://animateria.pl/tl-airports/register wypełniając formularz i wysyłając dane klikając "Zarejestruj się". Rejestracja jest bezpieczna a dostęp do waszych danych podanych w formularzu mam tylko ja jako nauczyciel. Jeśli nie chcecie wyświetlać swojego imienia i nazwiska jko podpis pod artykułem, to proszę podać dowolny Nick (pseudonim) w polu "podpis pod artykułem". Email jest wymagany w celu ochrony przed spamem.
+3. Po rejestracji utwórz wpis, zdefiniuj tytuł (najlepiej aby w tytule był tylko kod ICAO) i zredaguj treść dotyczącą wybranego portu. Jako wzór potraktuj mój wpis http://animateria.pl/2025/04/07/port-lotniczy-johna-f-kennedyego-w-nowym-jorku/ (bez prezentacji 3D, które uzupełnimy na zajęciach) zawierający co najmniej jedno zdjęcie i informacje o porcie lotniczym. Tworzenie wpisu przebiega podobnie jak w edytorze tekstu poprzez wpisywanie tekstów i wstawianie obrazów i/lub tabelek jako bloków. W tworzeniu wpisu można się wspomóc tutorialem (np: https://www.youtube.com/watch?v=AUd718XYvF4) ale powinniście poradzić sobie bez przygotowania. Jeśli napotkasz problemy podczas rejestracji lub tworzenia wpisu, stwórz dokument.
+
+#### III. Model 3D
+1.  Utwórz i zapisz zrzut ekranu z map google zawierający cały pas startowy i budynki infrastruktury lotniska.
+2.  Zainstaluj darmowy edytor 3D (zalecany Blender 3D który znajdziesz w sklepie Windows lub na stronie [blender3d.org](https://www.blender.org/))
+3.  Przeciągnij i upuść obrazek z mapą do okna widoku 3D programu blender a następnie zresetuj jego obrót i położenie w panelu numerycznym wywoływanym klawiszem "N" jak na poniższym obrazku.
+4.  Poćwicz nawigację w scenie 3D blendera. Można wspomóc się tutorialem wideo (np takim: https://www.youtube.com/watch?v=qHijANQziUM), jednak sądzę że nawidgacja oraz podstawowe manipulacje obiektu są dostępne dla was bez przygotowania (także dla nieobecnych na zajęciach na których to ćwiczyliśmy)
+- klawisze 7,3,1 jako podstawowe widoki ortogonalne
+- rolka myszy - ZOOM
+- SHIFT+ŚRODKOWY PRZYCISK MYSZY do przesuwania widoku (bez orbitowania)
+- klawisze G, R, S jako podstawowe przekształcenia
+- SHIFT + D jako polecenie powiel (duplikuj)
+
+  Proces tworzenia sceny powinien przebiegać w następujący sposób:
+  - zaznacz i powiel (SHIFT+D) istniejącą kostkę (lub utwórz w menu Add > Mesh > Cube) w widoku ortogonalnym (bez perspektywy) z góry.
+  - ustaw powieloną kostkę na mapie w miejscu widocznego budynku
+  - przesuń, przeskaluj, obróć klawiszami skrótów G,R,S lub przy pomocy manipulatora, powtarzaj proces aż utworzysz kilkanaście budynków.
+  - dla zaawansowanych: poszukaj darmowego modelu 3D samolotu 
