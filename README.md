@@ -19,6 +19,8 @@
 ![Utworz wpis](UtworzWpis.jpg)
 
 zdefiniuj tytuł (najlepiej aby w tytule był tylko kod ICAO) i zredaguj treść dotyczącą wybranego portu. Jako wzór potraktuj mój wpis http://animateria.pl/2025/04/07/port-lotniczy-johna-f-kennedyego-w-nowym-jorku/ (bez prezentacji 3D, które uzupełnimy na zajęciach) zawierający co najmniej jedno zdjęcie i informacje o porcie lotniczym. Tworzenie wpisu przebiega podobnie jak w edytorze tekstu poprzez wpisywanie tekstów i wstawianie obrazów i/lub tabelek jako bloków. W tworzeniu wpisu można się wspomóc tutorialem (np: https://www.youtube.com/watch?v=AUd718XYvF4) ale powinniście poradzić sobie bez przygotowania. Jeśli napotkasz problemy podczas rejestracji lub tworzenia wpisu, stwórz dokument tekstowy (Word/OpenDocument) zawierający artykuł i wyślij go na dysk Google lub przynieś na pendrive.
+4. Dodaj zdjęcie (znaleione w internecie) i podpisz podając źródło.
+5. Ustaw obrazek wyróżniający.
 
 ---
 
