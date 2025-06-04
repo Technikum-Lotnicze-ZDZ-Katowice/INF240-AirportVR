@@ -77,3 +77,6 @@ Poćwicz nawigację w scenie 3D blendera. Można wspomóc się tutorialem wideo 
   - przekształć model samolotu tak jak budynki (powielanie, skalowanie, obracanie)
 2. Przed exportem do glb i gltf przekonwertuj mapę na geometrię: Object > Convert > Convert to mesh plane
 3. Upewnij się ze rozmiar sceny nie przekracza kilku metrów a położenie sceny jest zbliżone do środka sceny (aby przekształcić całość, zaznacz wszystko "A" i dokonaj przekształceń całej sceny)
+4. Wyeksportuj do formatu glb i gltf
+
+![Export](Export.jpg)
