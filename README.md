@@ -1,5 +1,11 @@
 # INF240-AirportVR
 
+### Opublikowane prace uczniów
+
+[Maja Stryjak 2E](http://animateria.pl/2025/06/09/wmo/)
+[Oskar Gondzik 2E](http://animateria.pl/2025/05/19/bcn-barcelona/)
+[Zosia Załuska-Noui](http://animateria.pl/2025/05/28/lotnisko-los-angeles-lax/)
+
 ### Zadanie polega na przygotowaniu modelu 3D w środowisku WebXR pozwalającym na publikacje treści XR w środowisku webowym.
 
 ---
